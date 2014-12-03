@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-My first Git repo.
+Hello. I'm Tyler.
+
+This repository is meant as a learning exercise for the basic use of GitHub.
